@@ -1,5 +1,5 @@
 # Rust usage
-Display RAM and CPU consumption
+Display RAM and CPU consumption with random colors
 
 ## Source
 * [`main.rs`](https://github.com/ehsan-shahbakhsh/rsusage/blob/master/src/main.rs)
