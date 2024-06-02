@@ -1,5 +1,5 @@
 [package]
-name = "usage_app"
+name = "usage"
 version = "0.1.0"
 edition = "2021"
 
